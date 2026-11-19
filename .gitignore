@@ -1,0 +1,18 @@
+# Entorno virtual de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Binarios descargados por Instalar.bat (COLMAP con CUDA, ~600 MB)
+herramientas/
+
+# Datos de prueba y resultados (decenas de GB)
+M3M_WinterBarley_Dataset/
+*.tif
+*.tiff
+*.laz
+*.las
+*.ply
+
+# Generado por Instalar.bat
+OrthoDash.lnk

@@ -1,0 +1,10 @@
+pycolmap>=4.2
+numpy>=2.0
+scipy>=1.13
+opencv-python-headless>=4.10
+pillow>=10
+rasterio>=1.4
+pyproj>=3.6
+laspy[lazrs]>=2.5
+pywebview>=6.0
+psutil>=5.9
